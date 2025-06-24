@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Sound Circuit Music Softare (SCMS)
+# Sound Circuit Music Software (SCMS)
 
 ## 2D and 3D cross-platform game engine
 
